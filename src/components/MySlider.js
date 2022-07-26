@@ -1,5 +1,5 @@
 import './InputFeild.css';
-import { useState, useEffect, React } from "react";
+import  React, { useState, useEffect } from "react";
 import commas from './FormatNumber'; 
 
 

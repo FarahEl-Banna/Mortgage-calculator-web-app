@@ -1,3 +1,4 @@
+import React from 'react';
 import './InputFeild.css';
 import commas from './FormatNumber'; 
 

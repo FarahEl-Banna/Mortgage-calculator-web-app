@@ -1,4 +1,4 @@
-
+import React from 'react';
 import useSlider from './MySlider';
 import useButton from './MyButton';
 import OutputFeild from './MyOutputFeild';
